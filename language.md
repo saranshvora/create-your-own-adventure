@@ -167,3 +167,5 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+Deutsch Sprache ist ein schwere Sprache. Sprechen Sie Deutsch ? wann Ja ist Ihre Antwort, bitte klick [hier](German/german.md)
